@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "views-manager-configuration.components",
+      "type": "java.util.List<com.homework.viewsmanager.beans.ComponentEntity>",
+      "description": "Description for views-manager-configuration.components."
+    },
+    {
+      "name": "views-manager-configuration.views",
+      "type": "java.util.List<com.homework.viewsmanager.beans.LayoutView>",
+      "description": "Description for views-manager-configuration.views."
+    }
+  ]
+}
